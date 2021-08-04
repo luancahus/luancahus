@@ -2,7 +2,7 @@
 
 - ♥ Apaixonado por tecnologia, gosto de trabalhar de forma colaborativa, compartilhando conhecimento e experiência.
 - 👨🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas, 5° Período na Faculdade Senac PE.
-- 📚 Estudando JavaSccript, HTML, CSS e WordPress.
+- 📚 Estudando JavaScript, HTML, CSS e WordPress.
 - 🤓 Conhecimento em Scrum, POO, Estrutura De Dados, MySQL.
 - 📧 luancahu@outlook.com.br
  <div>
